@@ -38,11 +38,12 @@ The logged messages are always in sequential order.
 The program is compiled into a ***philo*** executable using ***make all***
   
 ### Example
-The following example shows the result of 6 philosophers, that take 600ms to die, 200ms to eat, 200ms to sleep and will eat a minimum of 5 times (./philo 6 800 200 200 5):
+The following example shows the result of 3 philosophers, that take 600ms to die, 200ms to eat, 200ms to sleep and will eat a minimum of 2 times (./philo 3 600 200 200 2):
  
-
+![image](https://github.com/RafaSoares1/Philosophers/assets/103336451/3e639e88-686f-42ae-be70-c67abd4eb6ba)
 
 ## Final grade
 
+![image](https://github.com/RafaSoares1/Philosophers/assets/103336451/5023e94d-a5f1-4d59-864e-85e061d4df3b)
 
 
